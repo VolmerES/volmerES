@@ -4,7 +4,9 @@
 <h3 align="center">A passionate student from 42 school</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=volmeres&label=Profile%20views&color=0e75b6&style=flat">
-
+  
+"I am a full-time programming student at 42 Madrid. My repository showcases ongoing projects, alongside personal endeavors and supplementary courses outside 42 Network. Follow my journey and explore my progress in the dynamic field of programming. Passionate about continuous learning and pushing boundaries.”
+  
 - 📚 I’m currently learning **C**
 
 - 💬 You can contact me for **42School** matters.
@@ -20,6 +22,7 @@
 
 </h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=volmeres&show_icons=true&locale=en&theme=synthwave" alt="volmeres" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=volmeres&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="volmeres" /></p>
 
 
