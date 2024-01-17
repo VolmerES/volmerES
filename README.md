@@ -7,7 +7,7 @@
   
 "Full-time programming student at 42 Madrid. My repository showcases ongoing projects, alongside personal endeavors and supplementary courses outside 42 Network. Follow my journey and explore my progress in the dynamic field of programming. Passionate about continuous learning and pushing boundaries.”
   
-- 📚 I’m currently learning **C**
+- 📚 I’m currently learning **C** and **Shell**.
 
 - 💬 You can contact me for **42School** matters.
 
