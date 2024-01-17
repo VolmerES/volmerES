@@ -2,7 +2,7 @@
 <h1 align="center">Ey 👋, I'm Juan Bautista "Volmer"</h1>
 <h3 align="center">A passionate student from 42 school</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=volmeres&label=Profile%20views&color=0e75b6&style=flat" alt="volmeres" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=volmeres&label=Profile%20views&color=0e75b6&style=flat">
 
 - 🌱 I’m currently learning **C**
 
