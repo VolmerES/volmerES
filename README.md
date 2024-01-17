@@ -21,7 +21,7 @@
 </p>
 
 <hr>
-## Languages / Idiomas
+<h3 align="left">Languages:</h3>
 
 - English 🇬🇧
 - Español 🇪🇸
