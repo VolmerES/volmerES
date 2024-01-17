@@ -1,7 +1,7 @@
 <img src='https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif' />
 
-<h1 align="center">Ey 👋, I'm Juan Bautista "Volmer"</h1>
-<h3 align="center">A passionate student from 42 school</h3>
+<h1 align="center">Welcome 👋, I'm Juan Bautista "Volmer"</h1>
+<h3 align="center">A passionate student from 42 Network</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=volmeres&label=Profile%20views&color=0e75b6&style=flat">
   
