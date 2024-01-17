@@ -1,5 +1,5 @@
-[![MasterHead]("[https://komarev.com/ghpvc/?username=volmeres&label=Profile%20views&color=0e75b6&style=flat](https://mir-s3-cdn-cf.behance.net/project_.%20modules/1400/81bb4b165684019.640b6038d133e.gif)"])(https://github.com/VolmerES)
-<p align="left"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif alt="volmeres" /> </p>
+[![MasterHead]["https://mir-s3-cdn-cf.behance.net/project_.%20modules/1400/81bb4b165684019.640b6038d133e.gif"](https://github.com/VolmerES)
+
 <h1 align="center">Ey 👋, I'm Juan Bautista "Volmer"</h1>
 <h3 align="center">A passionate student from 42 school</h3>
 
