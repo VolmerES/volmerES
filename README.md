@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=volmeres&label=Profile%20views&color=0e75b6&style=flat">
 
-- 🌱 I’m currently learning **C**
+- 📚 I’m currently learning **C**
 
-- 💬 Ask me about **42School**
-
-- 📫 How to reach me **volmer394@gmail.com**
+- 💬 You can contact me for **42School** matters.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juan-bautista-delorme-pinedo-000697264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-bautista-delorme-pinedo-000697264/" height="30" width="40" /></a>
+</p>
+<a href="https://profile.intra.42.fr/users/jdelorme" target="blank"><img align="center" src="https://42.fr/wp-content/uploads/2021/08/42.jpg" alt="https://profile.intra.42.fr/users/jdelorme" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,3 +22,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=volmeres&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="volmeres" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=volmeres&show_icons=true&locale=en&theme=synthwave" alt="volmeres" /></p>
+
+
+https://42.fr/wp-content/uploads/2021/08/42.jpg
