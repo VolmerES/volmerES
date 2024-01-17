@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=volmeres&show_icons=true&locale=en&layout=compact" alt="volmeres" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=volmeres&show_icons=true&locale=en" alt="volmeres" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=volmeres&show_icons=true&locale=en&theme=synthwave" alt="volmeres" /></p>
