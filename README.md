@@ -67,12 +67,6 @@ Embedded Systems Developer at **Proeti S.A.** (Madrid), a Spanish company buildi
 
 ---
 
-## 🌱 Currently Interested In
-
-Synthwave aesthetics & music production • AI/ML interpretability • Behavioral analysis and nonverbal communication • 3D graphics & game dev (Three.js)
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
