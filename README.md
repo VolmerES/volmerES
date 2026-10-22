@@ -82,6 +82,9 @@ Embedded Systems Developer at **Proeti S.A.** (Madrid), a Spanish company buildi
 
 ## 🤝 Connect With Me
 <p align="center">
+  <a href="mailto:juanbautista.dev@volmer.es">
+    <img src="https://img.shields.io/badge/Email-3b82f6?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
+  </a>
   <a href="https://www.volmer.es" target="_blank">
     <img src="https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
