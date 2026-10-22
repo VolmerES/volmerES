@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" fill="none" role="img" aria-label="Juan Volmer Delorme — developer banner">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0620"/>
+      <stop offset="0.55" stop-color="#140a33"/>
+      <stop offset="1" stop-color="#2a0f44"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd36e"/>
+      <stop offset="0.45" stop-color="#ff7a59"/>
+      <stop offset="1" stop-color="#ff2e97"/>
+    </linearGradient>
+    <linearGradient id="haze" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#140a33" stop-opacity="1"/>
+      <stop offset="1" stop-color="#140a33" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ff2e97" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ff2e97" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="neon" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="floor"><rect x="0" y="212" width="1200" height="88"/></clipPath>
+    <clipPath id="sunclip"><circle cx="980" cy="150" r="78"/></clipPath>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000" opacity="0.18"/>
+    </pattern>
+    <style>
+      .grid-h { animation: scroll 1.6s linear infinite; }
+      @keyframes scroll { from { transform: translateY(0); } to { transform: translateY(13px); } }
+      .role { opacity: 0; animation: cycle 13s ease-in-out infinite; }
+      .r2 { animation-delay: 3.25s; }
+      .r3 { animation-delay: 6.5s; }
+      .r4 { animation-delay: 9.75s; }
+      @keyframes cycle {
+        0% { opacity: 0; transform: translateY(6px); }
+        3% { opacity: 1; transform: translateY(0); }
+        22% { opacity: 1; transform: translateY(0); }
+        25% { opacity: 0; transform: translateY(-6px); }
+        100% { opacity: 0; transform: translateY(-6px); }
+      }
+      .cur { animation: blink 1.05s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .twinkle { animation: tw 3.5s ease-in-out infinite; }
+      .t2 { animation-delay: 1.2s; } .t3 { animation-delay: 2.3s; }
+      @keyframes tw { 0%,100% { opacity: 0.25; } 50% { opacity: 1; } }
+    </style>
+  </defs>
+
+  <!-- cielo -->
+  <rect width="1200" height="300" fill="url(#sky)"/>
+
+  <!-- estrellas -->
+  <g fill="#fff">
+    <circle class="twinkle"    cx="120" cy="60"  r="1.4"/>
+    <circle class="twinkle t2" cx="300" cy="40"  r="1.1"/>
+    <circle class="twinkle t3" cx="520" cy="70"  r="1.3"/>
+    <circle class="twinkle t2" cx="760" cy="38"  r="1.0"/>
+    <circle class="twinkle"    cx="1080" cy="55" r="1.4"/>
+    <circle class="twinkle t3" cx="1150" cy="95" r="1.1"/>
+    <circle class="twinkle t2" cx="60"  cy="120" r="1.0"/>
+  </g>
+
+  <!-- sol de neón -->
+  <circle cx="980" cy="150" r="120" fill="url(#glow)"/>
+  <g clip-path="url(#sunclip)">
+    <circle cx="980" cy="150" r="78" fill="url(#sun)"/>
+    <g stroke="#140a33" stroke-width="3">
+      <line x1="902" y1="150" x2="1058" y2="150"/>
+      <line x1="902" y1="160" x2="1058" y2="160"/>
+      <line x1="902" y1="171" x2="1058" y2="171"/>
+      <line x1="902" y1="184" x2="1058" y2="184"/>
+      <line x1="902" y1="200" x2="1058" y2="200"/>
+    </g>
+  </g>
+
+  <!-- suelo synthwave -->
+  <g clip-path="url(#floor)">
+    <g stroke="#ff2e97" stroke-width="1.4" opacity="0.85" style="filter:url(#neon)">
+      <line x1="600" y1="212" x2="-750" y2="300" />
+      <line x1="600" y1="212" x2="-600" y2="300" />
+      <line x1="600" y1="212" x2="-450" y2="300" />
+      <line x1="600" y1="212" x2="-300" y2="300" />
+      <line x1="600" y1="212" x2="-150" y2="300" />
+      <line x1="600" y1="212" x2="0" y2="300" />
+      <line x1="600" y1="212" x2="150" y2="300" />
+      <line x1="600" y1="212" x2="300" y2="300" />
+      <line x1="600" y1="212" x2="450" y2="300" />
+      <line x1="600" y1="212" x2="600" y2="300" />
+      <line x1="600" y1="212" x2="750" y2="300" />
+      <line x1="600" y1="212" x2="900" y2="300" />
+      <line x1="600" y1="212" x2="1050" y2="300" />
+      <line x1="600" y1="212" x2="1200" y2="300" />
+      <line x1="600" y1="212" x2="1350" y2="300" />
+      <line x1="600" y1="212" x2="1500" y2="300" />
+      <line x1="600" y1="212" x2="1650" y2="300" />
+      <line x1="600" y1="212" x2="1800" y2="300" />
+      <line x1="600" y1="212" x2="1950" y2="300" />
+    </g>
+    <g class="grid-h" stroke="#c23bff" stroke-width="1.2" opacity="0.7">
+      <line x1="0" y1="212" x2="1200" y2="212" />
+      <line x1="0" y1="225" x2="1200" y2="225" />
+      <line x1="0" y1="238" x2="1200" y2="238" />
+      <line x1="0" y1="251" x2="1200" y2="251" />
+      <line x1="0" y1="264" x2="1200" y2="264" />
+      <line x1="0" y1="277" x2="1200" y2="277" />
+      <line x1="0" y1="290" x2="1200" y2="290" />
+      <line x1="0" y1="303" x2="1200" y2="303" />
+    </g>
+    <!-- neblina que funde la rejilla con el horizonte -->
+    <rect x="0" y="212" width="1200" height="60" fill="url(#haze)"/>
+  </g>
+  <!-- línea de horizonte -->
+  <line x1="0" y1="212" x2="1200" y2="212" stroke="#36f9f6" stroke-width="2" opacity="0.9" style="filter:url(#neon)"/>
+
+  <!-- textos -->
+  <text x="70" y="86" font-family="'Courier New', monospace" font-size="17" fill="#36f9f6" opacity="0.9">volmer@github:~$ whoami</text>
+
+  <text x="68" y="150" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="bold" fill="#ffffff" style="filter:url(#neon); letter-spacing:1px">Juan &#171;Volmer&#187; Delorme</text>
+
+  <!-- cursor + roles rotando -->
+  <text class="cur" x="70" y="196" font-family="'Courier New', monospace" font-size="22" fill="#36f9f6">&#9611;</text>
+  <g font-family="'Courier New', monospace" font-size="22" fill="#ffb3e6">
+    <text class="role r1" x="95" y="196">Embedded Systems Developer @ Proeti</text>
+    <text class="role r2" x="95" y="196">Founder @ Volmer Studio</text>
+    <text class="role r3" x="95" y="196">Tech Lead @ Winegang</text>
+    <text class="role r4" x="95" y="196">42 Madrid · C · C++ · Flutter</text>
+  </g>
+
+  <!-- scanlines CRT -->
+  <rect width="1200" height="300" fill="url(#scan)"/>
+</svg>
